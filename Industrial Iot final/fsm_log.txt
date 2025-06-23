@@ -1,0 +1,61 @@
+[2025-06-22 17:18:09] Transition: START -> FORWARD_SCAN
+[2025-06-22 17:18:09] State: FORWARD_SCAN | Sensors: Distance=84cm, Drift=8cm, Goal=False, Glare=False
+[2025-06-22 17:18:10] State: FORWARD_SCAN | Sensors: Distance=79cm, Drift=15cm, Goal=False, Glare=False
+[2025-06-22 17:18:11] Transition: FORWARD_SCAN -> DRIFT_HOLD
+[2025-06-22 17:18:11] State: DRIFT_HOLD | Sensors: Distance=22cm, Drift=17cm, Goal=False, Glare=False
+[2025-06-22 17:18:14] Transition: DRIFT_HOLD -> FORWARD_SCAN
+[2025-06-22 17:18:14] State: FORWARD_SCAN | Sensors: Distance=95cm, Drift=3cm, Goal=True, Glare=False
+[2025-06-22 17:18:15] Transition: FORWARD_SCAN -> DRIFT_HOLD
+[2025-06-22 17:18:15] State: DRIFT_HOLD | Sensors: Distance=76cm, Drift=16cm, Goal=False, Glare=False
+[2025-06-22 17:18:18] Transition: DRIFT_HOLD -> FORWARD_SCAN
+[2025-06-22 17:18:18] State: FORWARD_SCAN | Sensors: Distance=15cm, Drift=14cm, Goal=False, Glare=False
+[2025-06-22 17:18:19] Transition: FORWARD_SCAN -> DRIFT_HOLD
+[2025-06-22 17:18:19] State: DRIFT_HOLD | Sensors: Distance=19cm, Drift=12cm, Goal=True, Glare=True
+[2025-06-22 17:18:22] Transition: DRIFT_HOLD -> FORWARD_SCAN
+[2025-06-22 17:18:22] State: FORWARD_SCAN | Sensors: Distance=83cm, Drift=14cm, Goal=True, Glare=False
+[2025-06-22 17:18:23] State: FORWARD_SCAN | Sensors: Distance=28cm, Drift=15cm, Goal=False, Glare=False
+[2025-06-22 17:18:24] Transition: FORWARD_SCAN -> DRIFT_HOLD
+[2025-06-22 17:18:24] State: DRIFT_HOLD | Sensors: Distance=87cm, Drift=9cm, Goal=False, Glare=True
+[2025-06-22 17:18:27] Transition: DRIFT_HOLD -> FORWARD_SCAN
+[2025-06-22 17:18:27] State: FORWARD_SCAN | Sensors: Distance=22cm, Drift=14cm, Goal=False, Glare=False
+[2025-06-22 17:18:28] Transition: FORWARD_SCAN -> DRIFT_HOLD
+[2025-06-22 17:18:28] State: DRIFT_HOLD | Sensors: Distance=27cm, Drift=8cm, Goal=False, Glare=True
+[2025-06-22 17:18:31] Transition: DRIFT_HOLD -> FORWARD_SCAN
+[2025-06-22 17:18:31] State: FORWARD_SCAN | Sensors: Distance=39cm, Drift=18cm, Goal=False, Glare=False
+[2025-06-22 17:18:32] Transition: FORWARD_SCAN -> DRIFT_HOLD
+[2025-06-22 17:18:32] State: DRIFT_HOLD | Sensors: Distance=81cm, Drift=16cm, Goal=False, Glare=True
+[2025-06-22 17:18:35] Transition: DRIFT_HOLD -> FORWARD_SCAN
+[2025-06-22 17:18:35] State: FORWARD_SCAN | Sensors: Distance=27cm, Drift=1cm, Goal=False, Glare=False
+[2025-06-22 17:18:36] State: FORWARD_SCAN | Sensors: Distance=44cm, Drift=15cm, Goal=False, Glare=False
+[2025-06-22 17:18:37] Transition: FORWARD_SCAN -> DRIFT_HOLD
+[2025-06-22 17:18:37] State: DRIFT_HOLD | Sensors: Distance=33cm, Drift=10cm, Goal=False, Glare=True
+[2025-06-22 17:18:40] Transition: DRIFT_HOLD -> FORWARD_SCAN
+[2025-06-22 17:18:40] State: FORWARD_SCAN | Sensors: Distance=27cm, Drift=9cm, Goal=False, Glare=False
+[2025-06-22 17:18:41] Transition: FORWARD_SCAN -> SIDESTEP
+[2025-06-22 17:18:41] State: SIDESTEP | Sensors: Distance=13cm, Drift=14cm, Goal=False, Glare=False
+[2025-06-22 17:18:43] Transition: SIDESTEP -> FORWARD_SCAN
+[2025-06-22 17:18:43] State: FORWARD_SCAN | Sensors: Distance=51cm, Drift=2cm, Goal=False, Glare=False
+[2025-06-22 17:18:44] Transition: FORWARD_SCAN -> DRIFT_HOLD
+[2025-06-22 17:18:44] State: DRIFT_HOLD | Sensors: Distance=74cm, Drift=17cm, Goal=False, Glare=False
+[2025-06-22 17:18:47] Transition: DRIFT_HOLD -> FORWARD_SCAN
+[2025-06-22 17:18:47] State: FORWARD_SCAN | Sensors: Distance=81cm, Drift=0cm, Goal=False, Glare=True
+[2025-06-22 17:18:48] State: FORWARD_SCAN | Sensors: Distance=96cm, Drift=3cm, Goal=False, Glare=False
+[2025-06-22 17:18:49] State: FORWARD_SCAN | Sensors: Distance=72cm, Drift=2cm, Goal=False, Glare=False
+[2025-06-22 17:18:50] State: FORWARD_SCAN | Sensors: Distance=93cm, Drift=3cm, Goal=False, Glare=False
+[2025-06-22 17:18:51] State: FORWARD_SCAN | Sensors: Distance=73cm, Drift=8cm, Goal=False, Glare=False
+[2025-06-22 17:18:52] State: FORWARD_SCAN | Sensors: Distance=36cm, Drift=4cm, Goal=False, Glare=False
+[2025-06-22 17:18:53] Transition: FORWARD_SCAN -> DRIFT_HOLD
+[2025-06-22 17:18:53] State: DRIFT_HOLD | Sensors: Distance=70cm, Drift=17cm, Goal=False, Glare=False
+[2025-06-22 17:18:56] Transition: DRIFT_HOLD -> FORWARD_SCAN
+[2025-06-22 17:18:56] State: FORWARD_SCAN | Sensors: Distance=93cm, Drift=8cm, Goal=False, Glare=False
+[2025-06-22 17:18:57] State: FORWARD_SCAN | Sensors: Distance=58cm, Drift=10cm, Goal=False, Glare=False
+[2025-06-22 17:18:58] State: FORWARD_SCAN | Sensors: Distance=83cm, Drift=0cm, Goal=False, Glare=False
+[2025-06-22 17:18:59] Transition: FORWARD_SCAN -> DRIFT_HOLD
+[2025-06-22 17:18:59] State: DRIFT_HOLD | Sensors: Distance=30cm, Drift=19cm, Goal=False, Glare=False
+[2025-06-22 17:19:02] Transition: DRIFT_HOLD -> FORWARD_SCAN
+[2025-06-22 17:19:02] State: FORWARD_SCAN | Sensors: Distance=35cm, Drift=3cm, Goal=False, Glare=False
+[2025-06-22 17:19:03] Transition: FORWARD_SCAN -> GOAL_FOUND
+[2025-06-22 17:19:03] State: GOAL_FOUND | Sensors: Distance=51cm, Drift=3cm, Goal=True, Glare=False
+[2025-06-22 17:19:04] Transition: GOAL_FOUND -> LAND
+[2025-06-22 17:19:04] State: LAND | Sensors: Distance=87cm, Drift=16cm, Goal=False, Glare=False
+[2025-06-22 17:19:05] Landing complete. Mission over.
